@@ -16,3 +16,6 @@ then move it the executable path via this command : sudo mv chromedriver /usr/lo
 4/install PyMongo client with : pip install pymongo 
 
 ENJOY :)
+
+
+Salma
