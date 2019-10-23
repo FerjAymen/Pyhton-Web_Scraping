@@ -18,4 +18,4 @@ then move it the executable path via this command : sudo mv chromedriver /usr/lo
 ENJOY :)
 
 
-Salma
+
